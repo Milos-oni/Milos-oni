@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Milos-oni
 - 👀 I’m interested in programming.
-- 🌱 I’m currently learning python.
+- 🌱 I’m currently learning python and CS overall.
 - 💞️ I’m looking to collaborate on  machine learning and web development.
 - 📫 How to reach me: Discord @grunt07
 - 😄 Pronouns: He/Him
